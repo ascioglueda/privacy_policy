@@ -12,18 +12,20 @@ Location data is collected only during running and cycling activities to measure
 2. How We Use Information
 The data is used solely within the app to improve user experience. We do not share any personal information with third parties.
 
-3. Data Storage
+3.This app collects your location in the background. This is done to [specify the feature – for example, ‘accurately measure your step count’ or ‘track tasks in your immediate vicinity’], and location can be collected even when the app is closed.
+
+4. Data Storage
 All user data is stored locally on your device using SQLite. Currently, the data is not encrypted.
 
-4. User Rights
+5. User Rights
 Users can view and edit their information within the app. At this time, users cannot delete their data, but a deletion feature will be added in a future update.
 
-5. Data Security
+6. Data Security
 User data is stored on your device and not shared externally. Future updates will include encryption and additional security measures.
 
-6. Changes to This Privacy Policy
+7. Changes to This Privacy Policy
 This Privacy Policy may be updated occasionally. Updates will be posted on the app or on the GitHub page.
 
-7. Contact Us
+8. Contact Us
 For privacy-related questions or requests, you can contact us at:
 [Your Email or Contact Link]
